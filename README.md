@@ -39,5 +39,5 @@ A doubly linked list maintains the process information sorted by arrival time.
 ## Function for Testing
 ```cpp
 void runProcessScheduling(const char* PathofJobFile, int globalTick)
-1.PathofJobFile: Path to the job.txt file.
-2.globalTick: Simulation run time in global ticks.
+//1.PathofJobFile: Path to the job.txt file.
+//2.globalTick: Simulation run time in global ticks.
